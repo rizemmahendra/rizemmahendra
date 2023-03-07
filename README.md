@@ -12,11 +12,13 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun saya
 
 ## Tech Stack
   <a href="#"><img align="left" alt="HTML" title="HTML" width="40px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"/></a>
-  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"/></a>
-  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/></a>
+  <a href="#"><img align="left" alt="Javascript" title="Javascript" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/></a>
+  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="60px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"/></a>
+  <a href="https://www.python.org"><img align="left" alt="Python" title="Python" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/></a>
   <a href="https://www.arduino.cc/"><img align="left" alt="Arduino" title="Arduino" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"/></a>
-  <br>
-  <br>
+
+<br>
+<br>
 
 ## Github Statistick
 <p align="left">
