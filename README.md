@@ -1,14 +1,17 @@
 # Halo semua! 
 
 Perkenalkan nama saya **Rizem Mahendra**.
-
-Saya seorang **Mahasiswa** di [Universitas Andalas](https://unand.ac.id/).
-
-Saya seorang **Asisten Laboratorium** di [Robotic and Embedded System](https://reslab.sk.fti.unand.ac.id)
+Seorang **Mahasiswa** jurusan Teknik Komputer di [Universitas Andalas](https://unand.ac.id/).  
+Seorang **Asisten Laboratorium** di [Robotic and Embedded System](https://reslab.sk.fti.unand.ac.id)
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun saya
-* [Instagram](https://www.instagram.com/ryzem_mahendra)
-* [Linkedin](https://www.linkedin.com/in/rizem-m-b300a2120/)
+## Social Media
+<a href="mailto:ryzemmahendra@gmail.com" style="display: block;"><img align="left" alt="Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>
+<a href="https://www.instagram.com/ryzem_mahendra" style="display: block;"><img align="left" alt="Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>
+<a href="https://www.linkedin.com/in/rizem-m-b300a2120/" style="display: block;"><img align="left" alt="Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a>  
+
+<br>
+<br>
 
 ## Tech Stack
   <a href="#"><img align="left" alt="HTML" title="HTML" width="40px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"/></a>
